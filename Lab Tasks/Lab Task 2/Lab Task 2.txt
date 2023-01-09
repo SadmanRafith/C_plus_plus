@@ -1,0 +1,21 @@
+1. Your task is to determine whether a given number is prime or not.
+Sample input/output :
+Enter a number to check: 4
+Output: 4 is not a prime number
+
+2. Your task is to find the sum of the series :x - x^3 + x^5 - .......
+Sample input/output:
+Input the value of x :2
+Input number of terms : 5
+Output :
+The values of the series:
+2
+-8
+32
+-128
+512
+The sum = 410
+
+
+You can take help for online resources. But do not just blindly copy and paste.
+Submit two cpp files and two screenshots and turn in.
