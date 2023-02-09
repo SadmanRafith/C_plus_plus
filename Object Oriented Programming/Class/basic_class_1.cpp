@@ -23,9 +23,9 @@ int main()
     cout << "\n";
     Student s1,s2;
     cout << "Output :\n";
-    s1.Update(19, "Tahsin", 100);
+    s1.Update(19, "Rafith", 100);
     cout << "\n";
-    s2.Update(20, "Disha", 500);
+    s2.Update(20, "Suha", 500);
 
     cout << "\n";
     return 0;
