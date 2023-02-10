@@ -2,8 +2,7 @@
 using namespace std;
 int main ( )
 {
-    cout << "Md. Tahsin Hasib\n22-46026-1" << endl;
-
+    
     int a, i, sum;
     float avg;
     cout << "\nEnter the number of people : ";
