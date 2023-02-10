@@ -3,7 +3,6 @@ using namespace std;
 int main ( )
 {
     int year, current_year = 2022, count=0;
-    cout << "Md. Tahsin Hasib\n22-46026-1";
     cout << "\n\n";
     cout << "\nEnter your birth year : ";
     cin >> year;
