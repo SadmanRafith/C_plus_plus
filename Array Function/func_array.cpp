@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+
 void cube(int Main_Array[]){
     for(int i=0; i<5; i++){
         Main_Array[i] = Main_Array[i]*Main_Array[i]*Main_Array[i];
