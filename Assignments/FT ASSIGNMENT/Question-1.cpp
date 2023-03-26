@@ -4,6 +4,7 @@ using namespace std;
 
 class Person
 {
+    
 protected:
     string nat,phn,mari,bg;
 public:
