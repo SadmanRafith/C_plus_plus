@@ -3,7 +3,7 @@ using namespace std;
 
 void Cgpa()
 {
-    int c;
+     int c;
     cout<< "Enter number of courses: ";
     cin>>c;
     cout<<endl;
