@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+
 void QueenMove(int chess[8][8], int row, int col)
 {
     for (int i = row - 1, j = col - 1; i >= 0 && j >= 0; i--, j--)
